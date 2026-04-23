@@ -2,13 +2,19 @@
 
 This document is specific to [EDA.ipynb](EDA.ipynb) and is intentionally separate from the main project README for [ECC3479_notebook.ipynb](ECC3479_notebook.ipynb).
 
+## overview
+
+This notebook explores whether suburbs near the Upfield line (affected by level crossing removals) exhibit faster house price growth than more distant suburbs.
+
+The analysis provides descriptive and visual evidence to guide later causal modelling.
+
 ## Research Question
 
 Will the removal of level crossings and related transport improvements along the Upfield line drive faster house price growth in adjacent suburbs compared to those located away from the line?
 
 ## Scope of EDA
 
-The exploratory analysis focuses on three variables:
+The exploratory analysis focuses on three main variables:
 
 - Suburb
 - House price
@@ -16,20 +22,34 @@ The exploratory analysis focuses on three variables:
 
 The notebook compares adjacent suburbs and faraway suburbs over time to check whether their price-growth paths differ.
 
+Suburbs are classified as:
+- **Adjacent**: near Upfield line / LXRP sites
+- **Faraway**: not directly affected
+
 ## What EDA.ipynb Does
 
-1. Loads cleaned suburb-level house-price and density tables from `data/clean`.
-2. Builds a panel containing suburb, year, house price, density, proximity, and income.
-3. Classifies suburbs into adjacent and faraway groups.
-4. Produces graph-by-graph EDA outputs, including:
-   - ranked suburb median house prices,
-   - grouped boxplots for adjacent and faraway suburb prices,
-   - density distribution plots,
-   - grouped time trends for house prices and population density,
-   - scatter and correlation views,
-   - between-vs-within suburb comparison,
-   - OLS residual diagnostics.
-5. Adds written justifications under each graph, linked to the research question.
+### Data Preparation
+- Loads cleaned suburb-level datasets from `data/clean`
+- Merges house prices, density, proximity, and income into a panel dataset
+
+### Feature Construction
+- Classifies suburbs into adjacent vs faraway groups
+- Structures data for time-series and panel comparisons
+
+### Visual Analysis
+
+Generates:
+- Ranked suburb median house prices
+- Boxplots comparing adjacent vs faraway suburbs
+- Population density distributions
+- Time trends for prices and density
+- Scatter plots and correlation analysis
+
+### Diagnostics
+- Between vs within suburb variation
+- OLS residual diagnostics
+
+Each graph includes a written interpretation linked to the research question.
 
 ## Key Data Used
 
@@ -59,3 +79,4 @@ pip install pandas numpy matplotlib seaborn openpyxl jupyter
 - Pearson correlation is useful as a supporting descriptive metric, but it is not the core evidence for the research question.
 - The strongest evidence in this notebook comes from adjacent-vs-faraway trend comparisons and panel-aware checks (between vs within variation).
 - Use EDA findings as directional evidence before any formal causal modelling.
+
