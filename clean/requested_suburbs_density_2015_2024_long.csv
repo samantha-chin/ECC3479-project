@@ -1,0 +1,571 @@
+Suburb,Year,Population,Area_km2,Density,SA2_components
+Chelsea,2015,14396.0,5.423,2654.6192144569427,Chelsea - Bonbeach
+Chelsea,2016,14833.0,5.423,2735.2019177576985,Chelsea - Bonbeach
+Chelsea,2017,15057.0,5.423,2776.5074681910382,Chelsea - Bonbeach
+Chelsea,2018,15210.0,5.423,2804.7206343352386,Chelsea - Bonbeach
+Chelsea,2019,15317.0,5.423,2824.4514106583074,Chelsea - Bonbeach
+Chelsea,2020,15426.0,5.423,2844.5509865388162,Chelsea - Bonbeach
+Chelsea,2021,15317.0,5.423,2824.4514106583074,Chelsea - Bonbeach
+Chelsea,2022,15339.0,5.423,2828.508205790153,Chelsea - Bonbeach
+Chelsea,2023,15568.0,5.423,2870.735755117094,Chelsea - Bonbeach
+Chelsea,2024,15842.0,5.423,2921.261294486447,Chelsea - Bonbeach
+Laverton,2015,8334.0,22.2451,374.6443036893518,Laverton
+Laverton,2016,9385.0,22.2451,421.89066356186305,Laverton
+Laverton,2017,10255.0,22.2451,461.0004000881093,Laverton
+Laverton,2018,10899.0,22.2451,489.9505958615605,Laverton
+Laverton,2019,11499.0,22.2451,516.9228279486268,Laverton
+Laverton,2020,11972.0,22.2451,538.1859375772642,Laverton
+Laverton,2021,11643.0,22.2451,523.3961636495228,Laverton
+Laverton,2022,11839.0,22.2451,532.2070927979645,Laverton
+Laverton,2023,12359.0,22.2451,555.583027273422,Laverton
+Laverton,2024,12672.0,22.2451,569.6535416788416,Laverton
+Ringwood,2015,17654.0,9.9105,1781.3430200292617,Ringwood
+Ringwood,2016,17931.0,9.9105,1809.2931739064627,Ringwood
+Ringwood,2017,18301.0,9.9105,1846.6273144644567,Ringwood
+Ringwood,2018,18504.0,9.9105,1867.1106402300588,Ringwood
+Ringwood,2019,18876.0,9.9105,1904.6465869532312,Ringwood
+Ringwood,2020,19158.0,9.9105,1933.101256243378,Ringwood
+Ringwood,2021,18919.0,9.9105,1908.9854195045657,Ringwood
+Ringwood,2022,18962.0,9.9105,1913.3242520559002,Ringwood
+Ringwood,2023,19297.0,9.9105,1947.1267847232732,Ringwood
+Ringwood,2024,19593.0,9.9105,1976.9940971696683,Ringwood
+Mentone,2015,13332.0,4.45,2995.955056179775,Mentone
+Mentone,2016,13695.0,4.45,3077.5280898876404,Mentone
+Mentone,2017,13784.0,4.45,3097.5280898876404,Mentone
+Mentone,2018,13813.0,4.45,3104.0449438202245,Mentone
+Mentone,2019,13883.0,4.45,3119.775280898876,Mentone
+Mentone,2020,13856.0,4.45,3113.7078651685392,Mentone
+Mentone,2021,13303.0,4.45,2989.438202247191,Mentone
+Mentone,2022,13347.0,4.45,2999.325842696629,Mentone
+Mentone,2023,13702.0,4.45,3079.1011235955057,Mentone
+Mentone,2024,13945.0,4.45,3133.7078651685392,Mentone
+Preston,2015,33219.0,11.313600000000001,2936.2006788290196,Preston - East | Preston - West
+Preston,2016,34059.0,11.313600000000001,3010.447602885023,Preston - East | Preston - West
+Preston,2017,34474.0,11.313600000000001,3047.129118936501,Preston - East | Preston - West
+Preston,2018,34666.0,11.313600000000001,3064.099844435016,Preston - East | Preston - West
+Preston,2019,34853.0,11.313600000000001,3080.628623957007,Preston - East | Preston - West
+Preston,2020,35024.0,11.313600000000001,3095.743176354122,Preston - East | Preston - West
+Preston,2021,33821.0,11.313600000000001,2989.4109744024886,Preston - East | Preston - West
+Preston,2022,33786.0,11.313600000000001,2986.317352566822,Preston - East | Preston - West
+Preston,2023,35039.0,11.313600000000001,3097.069014283694,Preston - East | Preston - West
+Preston,2024,35887.0,11.313600000000001,3172.023051902135,Preston - East | Preston - West
+Blackburn,2015,21850.0,8.6076,2538.454389144477,Blackburn
+Blackburn,2016,22291.0,8.6076,2589.6881825363635,Blackburn
+Blackburn,2017,22602.0,8.6076,2625.819043635857,Blackburn
+Blackburn,2018,22743.0,8.6076,2642.1999163529904,Blackburn
+Blackburn,2019,22931.0,8.6076,2664.0410799758356,Blackburn
+Blackburn,2020,23032.0,8.6076,2675.774896603002,Blackburn
+Blackburn,2021,22356.0,8.6076,2597.2396486825596,Blackburn
+Blackburn,2022,22299.0,8.6076,2590.6175937543567,Blackburn
+Blackburn,2023,22897.0,8.6076,2660.0910822993633,Blackburn
+Blackburn,2024,23415.0,8.6076,2720.2704586644363,Blackburn
+Beaconsfield,2015,11684.0,33.2503,351.39532575645933,Beaconsfield - Officer
+Beaconsfield,2016,13496.0,33.2503,405.89107466699545,Beaconsfield - Officer
+Beaconsfield,2017,15476.0,33.2503,465.43940956923694,Beaconsfield - Officer
+Beaconsfield,2018,17743.0,33.2503,533.6192455406417,Beaconsfield - Officer
+Beaconsfield,2019,20259.0,33.2503,609.2877357497525,Beaconsfield - Officer
+Beaconsfield,2020,22381.0,33.2503,673.1067088116498,Beaconsfield - Officer
+Beaconsfield,2021,23966.0,33.2503,720.7754516500603,Beaconsfield - Officer
+Beaconsfield,2022,25750.0,33.2503,774.4291028953122,Beaconsfield - Officer
+Beaconsfield,2023,26922.0,33.2503,809.6769051707804,Beaconsfield - Officer
+Beaconsfield,2024,28306.0,33.2503,851.3005897691148,Beaconsfield - Officer
+Essendon,2015,11905.0,3.5543,3349.464029485412,Essendon - East
+Essendon,2016,12270.0,3.5543,3452.156542779169,Essendon - East
+Essendon,2017,12507.0,3.5543,3518.8363390822383,Essendon - East
+Essendon,2018,12611.0,3.5543,3548.0966716371718,Essendon - East
+Essendon,2019,12698.0,3.5543,3572.5740652167797,Essendon - East
+Essendon,2020,12763.0,3.5543,3590.861773063613,Essendon - East
+Essendon,2021,12314.0,3.5543,3464.535914244718,Essendon - East
+Essendon,2022,12252.0,3.5543,3447.0922544523537,Essendon - East
+Essendon,2023,12616.0,3.5543,3549.5034183946204,Essendon - East
+Essendon,2024,12876.0,3.5543,3622.654249781954,Essendon - East
+Glen Iris,2015,17075.0,5.7049,2993.041069957405,Glen Iris - East
+Glen Iris,2016,17182.0,5.7049,3011.7968763694366,Glen Iris - East
+Glen Iris,2017,17356.0,5.7049,3042.2969727777872,Glen Iris - East
+Glen Iris,2018,17419.0,5.7049,3053.340111132535,Glen Iris - East
+Glen Iris,2019,17511.0,5.7049,3069.4665988886745,Glen Iris - East
+Glen Iris,2020,17375.0,5.7049,3045.627443075251,Glen Iris - East
+Glen Iris,2021,17006.0,5.7049,2980.9462041403003,Glen Iris - East
+Glen Iris,2022,16865.0,5.7049,2956.2306087749125,Glen Iris - East
+Glen Iris,2023,17201.0,5.7049,3015.1273466669004,Glen Iris - East
+Glen Iris,2024,17491.0,5.7049,3065.960840680818,Glen Iris - East
+Cranbourne,2015,20568.0,13.027,1578.8746449681432,Cranbourne
+Cranbourne,2016,20888.0,13.027,1603.439011284256,Cranbourne
+Cranbourne,2017,21207.0,13.027,1627.9266139556307,Cranbourne
+Cranbourne,2018,21414.0,13.027,1643.816688416366,Cranbourne
+Cranbourne,2019,21516.0,13.027,1651.646580179627,Cranbourne
+Cranbourne,2020,21673.0,13.027,1663.6984724034699,Cranbourne
+Cranbourne,2021,21581.0,13.027,1656.6362170875875,Cranbourne
+Cranbourne,2022,21578.0,13.027,1656.405926153374,Cranbourne
+Cranbourne,2023,21983.0,13.027,1687.4952022722039,Cranbourne
+Cranbourne,2024,22468.0,13.027,1724.7255699700622,Cranbourne
+Campbellfield,2015,17013.0,18.1867,935.4638279621922,Campbellfield - Coolaroo
+Campbellfield,2016,17122.0,18.1867,941.4572187367693,Campbellfield - Coolaroo
+Campbellfield,2017,17170.0,18.1867,944.0965100870417,Campbellfield - Coolaroo
+Campbellfield,2018,17185.0,18.1867,944.9212886340018,Campbellfield - Coolaroo
+Campbellfield,2019,17146.0,18.1867,942.7768644119055,Campbellfield - Coolaroo
+Campbellfield,2020,16885.0,18.1867,928.425717694799,Campbellfield - Coolaroo
+Campbellfield,2021,16245.0,18.1867,893.235166357833,Campbellfield - Coolaroo
+Campbellfield,2022,15858.0,18.1867,871.9558798462614,Campbellfield - Coolaroo
+Campbellfield,2023,16188.0,18.1867,890.1010078793845,Campbellfield - Coolaroo
+Campbellfield,2024,16389.0,18.1867,901.1530404086503,Campbellfield - Coolaroo
+Pakenham,2015,46352.0,96.8262,478.71340608223807,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2016,49186.0,96.8262,507.98234362187094,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2017,51310.0,96.8262,529.9185551018217,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2018,53160.0,96.8262,549.0249539897259,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2019,54894.0,96.8262,566.9333300284427,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2020,56355.0,96.8262,582.0222212582958,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2021,56853.0,96.8262,587.1654572832559,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2022,57871.0,96.8262,597.6791405631947,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2023,59403.0,96.8262,613.501304399016,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Pakenham,2024,60788.0,96.8262,627.8052841069875,Pakenham - North East | Pakenham - North West | Pakenham - South East | Pakenham - South West
+Lilydale,2015,19212.0,109.3817,175.64181211299515,Lilydale - Coldstream
+Lilydale,2016,19448.0,109.3817,177.79939423139336,Lilydale - Coldstream
+Lilydale,2017,19656.0,109.3817,179.70099203065962,Lilydale - Coldstream
+Lilydale,2018,19822.0,109.3817,181.21861335122787,Lilydale - Coldstream
+Lilydale,2019,19913.0,109.3817,182.05056238840683,Lilydale - Coldstream
+Lilydale,2020,19952.0,109.3817,182.40711197576925,Lilydale - Coldstream
+Lilydale,2021,19786.0,109.3817,180.889490655201,Lilydale - Coldstream
+Lilydale,2022,19895.0,109.3817,181.8860010403934,Lilydale - Coldstream
+Lilydale,2023,20012.0,109.3817,182.95564980248068,Lilydale - Coldstream
+Lilydale,2024,20492.0,109.3817,187.343952416172,Lilydale - Coldstream
+Bentleigh,2015,23295.0,6.2242,3742.6496577873463,Bentleigh - McKinnon
+Bentleigh,2016,23586.0,6.2242,3789.4026541563576,Bentleigh - McKinnon
+Bentleigh,2017,24149.0,6.2242,3879.8560457568847,Bentleigh - McKinnon
+Bentleigh,2018,24600.0,6.2242,3952.315156967964,Bentleigh - McKinnon
+Bentleigh,2019,25177.0,6.2242,4045.017833617172,Bentleigh - McKinnon
+Bentleigh,2020,25447.0,6.2242,4088.3969024131616,Bentleigh - McKinnon
+Bentleigh,2021,25202.0,6.2242,4049.034414061245,Bentleigh - McKinnon
+Bentleigh,2022,25432.0,6.2242,4085.986954146718,Bentleigh - McKinnon
+Bentleigh,2023,26136.0,6.2242,4199.0938594518175,Bentleigh - McKinnon
+Bentleigh,2024,26752.0,6.2242,4298.062401593779,Bentleigh - McKinnon
+Clayton,2015,12311.0,4.1819,2943.8771850115977,Clayton - Central
+Clayton,2016,12585.0,4.1819,3009.3976422200435,Clayton - Central
+Clayton,2017,13121.0,4.1819,3137.569047562113,Clayton - Central
+Clayton,2018,13524.0,4.1819,3233.9367273249004,Clayton - Central
+Clayton,2019,13834.0,4.1819,3308.0657117578135,Clayton - Central
+Clayton,2020,14027.0,4.1819,3354.216982711208,Clayton - Central
+Clayton,2021,12276.0,4.1819,2935.507783543366,Clayton - Central
+Clayton,2022,12884.0,4.1819,3080.89624333437,Clayton - Central
+Clayton,2023,14164.0,4.1819,3386.977211315431,Clayton - Central
+Clayton,2024,14977.0,4.1819,3581.386451134652,Clayton - Central
+Noble Park,2015,31866.0,8.5617,3721.92438417604,Noble Park - East | Noble Park - West
+Noble Park,2016,32508.0,8.5617,3796.909492273731,Noble Park - East | Noble Park - West
+Noble Park,2017,33089.0,8.5617,3864.769847109803,Noble Park - East | Noble Park - West
+Noble Park,2018,33514.0,8.5617,3914.409521473539,Noble Park - East | Noble Park - West
+Noble Park,2019,33872.0,8.5617,3956.2236471728743,Noble Park - East | Noble Park - West
+Noble Park,2020,33842.0,8.5617,3952.7196701589637,Noble Park - East | Noble Park - West
+Noble Park,2021,32699.0,8.5617,3819.2181459289627,Noble Park - East | Noble Park - West
+Noble Park,2022,32488.0,8.5617,3794.57350759779,Noble Park - East | Noble Park - West
+Noble Park,2023,33495.0,8.5617,3912.1903360313954,Noble Park - East | Noble Park - West
+Noble Park,2024,33901.0,8.5617,3959.6108249529884,Noble Park - East | Noble Park - West
+Cheltenham,2015,34188.0,14.057400000000001,2432.028682402151,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2016,34912.0,14.057400000000001,2483.5318053125043,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2017,35519.0,14.057400000000001,2526.7119097414884,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2018,36388.0,14.057400000000001,2588.5298846159317,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2019,36882.0,14.057400000000001,2623.671518203935,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2020,37409.0,14.057400000000001,2661.1606698251453,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2021,36897.0,14.057400000000001,2624.738571855393,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2022,37064.0,14.057400000000001,2636.6184358416203,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2023,37994.0,14.057400000000001,2702.7757622319914,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Cheltenham,2024,38872.0,14.057400000000001,2765.233969297309,Highett (East) - Cheltenham | Highett (West) - Cheltenham
+Werribee,2015,43604.0,249.45319999999998,174.79831888306106,Werribee - East | Werribee - South | Werribee - West
+Werribee,2016,44702.0,249.45319999999998,179.1999461221584,Werribee - East | Werribee - South | Werribee - West
+Werribee,2017,46790.0,249.45319999999998,187.57025365880256,Werribee - East | Werribee - South | Werribee - West
+Werribee,2018,49467.0,249.45319999999998,198.30172553408818,Werribee - East | Werribee - South | Werribee - West
+Werribee,2019,53024.0,249.45319999999998,212.5609132294154,Werribee - East | Werribee - South | Werribee - West
+Werribee,2020,56771.0,249.45319999999998,227.5817668404334,Werribee - East | Werribee - South | Werribee - West
+Werribee,2021,58921.0,249.45319999999998,236.2006179916714,Werribee - East | Werribee - South | Werribee - West
+Werribee,2022,61627.0,249.45319999999998,247.0483441382993,Werribee - East | Werribee - South | Werribee - West
+Werribee,2023,64712.0,249.45319999999998,259.41539334833146,Werribee - East | Werribee - South | Werribee - West
+Werribee,2024,67319.0,249.45319999999998,269.8662514652047,Werribee - East | Werribee - South | Werribee - West
+Berwick,2015,49604.0,34.6029,1433.5214678538505,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2016,50698.0,34.6029,1465.137315080528,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2017,51510.0,34.6029,1488.6035563493233,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2018,52096.0,34.6029,1505.5385531270501,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2019,52653.0,34.6029,1521.6354698594628,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2020,52829.0,34.6029,1526.7217487551623,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2021,52529.0,34.6029,1518.0519551829473,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2022,53051.0,34.6029,1533.1373959986013,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2023,54761.0,34.6029,1582.555219360227,Berwick - North | Berwick - South East | Berwick - South West
+Berwick,2024,56448.0,34.6029,1631.308358547983,Berwick - North | Berwick - South East | Berwick - South West
+Croydon,2015,28706.0,14.8961,1927.0815851128818,Croydon - East | Croydon - West
+Croydon,2016,29529.0,14.8961,1982.3309456837694,Croydon - East | Croydon - West
+Croydon,2017,30087.0,14.8961,2019.7904149408234,Croydon - East | Croydon - West
+Croydon,2018,30505.0,14.8961,2047.8514510509463,Croydon - East | Croydon - West
+Croydon,2019,30824.0,14.8961,2069.266452292882,Croydon - East | Croydon - West
+Croydon,2020,30964.0,14.8961,2078.664885439813,Croydon - East | Croydon - West
+Croydon,2021,30482.0,14.8961,2046.3074227482361,Croydon - East | Croydon - West
+Croydon,2022,30388.0,14.8961,2039.9970462067251,Croydon - East | Croydon - West
+Croydon,2023,31154.0,14.8961,2091.419901853505,Croydon - East | Croydon - West
+Croydon,2024,31934.0,14.8961,2143.782600814978,Croydon - East | Croydon - West
+Edithvale,2015,13152.0,5.1001,2578.772965235976,Edithvale - Aspendale
+Edithvale,2016,13376.0,5.1001,2622.6936726730846,Edithvale - Aspendale
+Edithvale,2017,13438.0,5.1001,2634.850297052999,Edithvale - Aspendale
+Edithvale,2018,13627.0,5.1001,2671.9083939530597,Edithvale - Aspendale
+Edithvale,2019,13823.0,5.1001,2710.33901296053,Edithvale - Aspendale
+Edithvale,2020,13778.0,5.1001,2701.5156565557536,Edithvale - Aspendale
+Edithvale,2021,13669.0,5.1001,2680.1435265975174,Edithvale - Aspendale
+Edithvale,2022,13644.0,5.1001,2675.241661928197,Edithvale - Aspendale
+Edithvale,2023,13889.0,5.1001,2723.2799356875353,Edithvale - Aspendale
+Edithvale,2024,14112.0,5.1001,2767.004568537872,Edithvale - Aspendale
+Williamstown,2015,16006.0,7.3463,2178.783877598247,Williamstown
+Williamstown,2016,16389.0,7.3463,2230.9189660101,Williamstown
+Williamstown,2017,16501.0,7.3463,2246.1647359895455,Williamstown
+Williamstown,2018,16655.0,7.3463,2267.127669711283,Williamstown
+Williamstown,2019,16795.0,7.3463,2286.18488218559,Williamstown
+Williamstown,2020,16659.0,7.3463,2267.6721614962635,Williamstown
+Williamstown,2021,16075.0,7.3463,2188.176360889155,Williamstown
+Williamstown,2022,16154.0,7.3463,2198.930073642514,Williamstown
+Williamstown,2023,16557.0,7.3463,2253.7876209792685,Williamstown
+Williamstown,2024,16867.0,7.3463,2295.9857343152335,Williamstown
+Ardeer,2015,7937.0,4.5883,1729.8345792559335,Ardeer - Albion
+Ardeer,2016,8202.0,4.5883,1787.5901750103524,Ardeer - Albion
+Ardeer,2017,8229.0,4.5883,1793.4747074079723,Ardeer - Albion
+Ardeer,2018,8228.0,4.5883,1793.256761763616,Ardeer - Albion
+Ardeer,2019,8183.0,4.5883,1783.4492077675827,Ardeer - Albion
+Ardeer,2020,8082.0,4.5883,1761.4366976875965,Ardeer - Albion
+Ardeer,2021,7590.0,4.5883,1654.2074406642982,Ardeer - Albion
+Ardeer,2022,7463.0,4.5883,1626.5283438310485,Ardeer - Albion
+Ardeer,2023,7692.0,4.5883,1676.4378963886406,Ardeer - Albion
+Ardeer,2024,7880.0,4.5883,1717.4116775276245,Ardeer - Albion
+St Albans,2015,38215.0,12.7872,2988.5354104104103,St Albans - North | St Albans - South
+St Albans,2016,39089.0,12.7872,3056.88501001001,St Albans - North | St Albans - South
+St Albans,2017,39807.0,12.7872,3113.03490990991,St Albans - North | St Albans - South
+St Albans,2018,40220.0,12.7872,3145.3328328328325,St Albans - North | St Albans - South
+St Albans,2019,40410.0,12.7872,3160.1914414414414,St Albans - North | St Albans - South
+St Albans,2020,40048.0,12.7872,3131.881881881882,St Albans - North | St Albans - South
+St Albans,2021,38494.0,12.7872,3010.354104104104,St Albans - North | St Albans - South
+St Albans,2022,37386.0,12.7872,2923.7049549549547,St Albans - North | St Albans - South
+St Albans,2023,38160.0,12.7872,2984.234234234234,St Albans - North | St Albans - South
+St Albans,2024,38618.0,12.7872,3020.051301301301,St Albans - North | St Albans - South
+Sunbury,2015,13170.0,129.5487,101.66061102890265,Sunbury
+Sunbury,2016,13238.0,129.5487,102.18551015949987,Sunbury
+Sunbury,2017,13338.0,129.5487,102.95742064567224,Sunbury
+Sunbury,2018,13454.0,129.5487,103.85283680963221,Sunbury
+Sunbury,2019,13637.0,129.5487,105.26543299932767,Sunbury
+Sunbury,2020,13858.0,129.5487,106.97135517376863,Sunbury
+Sunbury,2021,13788.0,129.5487,106.43101783344797,Sunbury
+Sunbury,2022,13820.0,129.5487,106.67802918902312,Sunbury
+Sunbury,2023,14197.0,129.5487,109.588131721893,Sunbury
+Sunbury,2024,14758.0,129.5487,113.91854954932006,Sunbury
+Glenroy,2015,22479.0,8.8582,2537.6487322480866,Glenroy - East | Glenroy - West
+Glenroy,2016,23153.0,8.8582,2613.736425007338,Glenroy - East | Glenroy - West
+Glenroy,2017,23720.0,8.8582,2677.744914316678,Glenroy - East | Glenroy - West
+Glenroy,2018,24274.0,8.8582,2740.2858368517304,Glenroy - East | Glenroy - West
+Glenroy,2019,24631.0,8.8582,2780.587478268723,Glenroy - East | Glenroy - West
+Glenroy,2020,24811.0,8.8582,2800.907633605021,Glenroy - East | Glenroy - West
+Glenroy,2021,23956.0,8.8582,2704.3868957576033,Glenroy - East | Glenroy - West
+Glenroy,2022,23815.0,8.8582,2688.4694407441693,Glenroy - East | Glenroy - West
+Glenroy,2023,24692.0,8.8582,2787.4737531326905,Glenroy - East | Glenroy - West
+Glenroy,2024,25189.0,8.8582,2843.5799598112485,Glenroy - East | Glenroy - West
+Alphington,2015,9134.0,2.8853,3165.7020067237377,Alphington - Fairfield
+Alphington,2016,9434.0,2.8853,3269.6773299137003,Alphington - Fairfield
+Alphington,2017,9473.0,2.8853,3283.194121928396,Alphington - Fairfield
+Alphington,2018,9415.0,2.8853,3263.0922261116693,Alphington - Fairfield
+Alphington,2019,9467.0,2.8853,3281.114615464596,Alphington - Fairfield
+Alphington,2020,9538.0,2.8853,3305.7221086195545,Alphington - Fairfield
+Alphington,2021,9069.0,2.8853,3143.174020032579,Alphington - Fairfield
+Alphington,2022,9142.0,2.8853,3168.4746820088035,Alphington - Fairfield
+Alphington,2023,9469.0,2.8853,3281.807784285863,Alphington - Fairfield
+Alphington,2024,9653.0,2.8853,3345.5793158423735,Alphington - Fairfield
+Carnegie,2015,18645.0,3.8045,4900.775397555526,Carnegie
+Carnegie,2016,19091.0,3.8045,5018.004994085951,Carnegie
+Carnegie,2017,19288.0,3.8045,5069.785779997372,Carnegie
+Carnegie,2018,19551.0,3.8045,5138.9144434222635,Carnegie
+Carnegie,2019,19686.0,3.8045,5174.398738336181,Carnegie
+Carnegie,2020,19676.0,3.8045,5171.770272046261,Carnegie
+Carnegie,2021,18791.0,3.8045,4939.151005388356,Carnegie
+Carnegie,2022,18910.0,3.8045,4970.429754238402,Carnegie
+Carnegie,2023,20056.0,3.8045,5271.651991063215,Carnegie
+Carnegie,2024,20837.0,3.8045,5476.935208305954,Carnegie
+Hallam,2015,11125.0,8.0565,1380.8725873518279,Hallam
+Hallam,2016,11335.0,8.0565,1406.9384968658846,Hallam
+Hallam,2017,11516.0,8.0565,1429.404828399429,Hallam
+Hallam,2018,11697.0,8.0565,1451.8711599329733,Hallam
+Hallam,2019,11911.0,8.0565,1478.433562961584,Hallam
+Hallam,2020,11968.0,8.0565,1485.5085955439708,Hallam
+Hallam,2021,11598.0,8.0565,1439.582945447775,Hallam
+Hallam,2022,11554.0,8.0565,1434.121516787687,Hallam
+Hallam,2023,11737.0,8.0565,1456.8360950785082,Hallam
+Hallam,2024,11898.0,8.0565,1476.819959039285,Hallam
+Mitcham,2015,16686.0,6.6271,2517.8434005824565,Mitcham (Vic.)
+Mitcham,2016,16859.0,6.6271,2543.9483333584826,Mitcham (Vic.)
+Mitcham,2017,17084.0,6.6271,2577.8998355238336,Mitcham (Vic.)
+Mitcham,2018,17231.0,6.6271,2600.081483605197,Mitcham (Vic.)
+Mitcham,2019,17282.0,6.6271,2607.777157429343,Mitcham (Vic.)
+Mitcham,2020,17338.0,6.6271,2616.227309079386,Mitcham (Vic.)
+Mitcham,2021,16930.0,6.6271,2554.6619184862157,Mitcham (Vic.)
+Mitcham,2022,16990.0,6.6271,2563.715652396976,Mitcham (Vic.)
+Mitcham,2023,17288.0,6.6271,2608.682530820419,Mitcham (Vic.)
+Mitcham,2024,17425.0,6.6271,2629.3552232499883,Mitcham (Vic.)
+Reservoir,2015,52645.0,19.1207,2753.298780902373,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2016,53666.0,19.1207,2806.696407558301,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2017,54122.0,19.1207,2830.544906828725,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2018,54333.0,19.1207,2841.5800676753465,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2019,54422.0,19.1207,2846.2347089803197,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2020,54108.0,19.1207,2829.8127160616505,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2021,52051.0,19.1207,2722.232972642215,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2022,51852.0,19.1207,2711.825403881657,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2023,53302.0,19.1207,2787.6594476143655,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Reservoir,2024,54648.0,19.1207,2858.0543599345215,Reservoir - North East | Reservoir - North West | Reservoir - South East | Reservoir - South West
+Coburg,2015,27420.0,6.9347,3954.028292500036,Coburg - East | Coburg - West
+Coburg,2016,27802.0,6.9347,4009.1135881869436,Coburg - East | Coburg - West
+Coburg,2017,27961.0,6.9347,4032.0417609990336,Coburg - East | Coburg - West
+Coburg,2018,28077.0,6.9347,4048.769232987728,Coburg - East | Coburg - West
+Coburg,2019,28025.0,6.9347,4041.2707110617616,Coburg - East | Coburg - West
+Coburg,2020,27788.0,6.9347,4007.094755360722,Coburg - East | Coburg - West
+Coburg,2021,26859.0,6.9347,3873.1307771064357,Coburg - East | Coburg - West
+Coburg,2022,26967.0,6.9347,3888.704630337289,Coburg - East | Coburg - West
+Coburg,2023,27958.0,6.9347,4031.6091539648432,Coburg - East | Coburg - West
+Coburg,2024,28654.0,6.9347,4131.973985897011,Coburg - East | Coburg - West
+Brunswick,2015,26799.0,5.1425,5211.278561011181,Brunswick - North | Brunswick - South
+Brunswick,2016,27435.0,5.1425,5334.953816237238,Brunswick - North | Brunswick - South
+Brunswick,2017,27712.0,5.1425,5388.818667963053,Brunswick - North | Brunswick - South
+Brunswick,2018,28128.0,5.1425,5469.7131745260085,Brunswick - North | Brunswick - South
+Brunswick,2019,28358.0,5.1425,5514.438502673796,Brunswick - North | Brunswick - South
+Brunswick,2020,28359.0,5.1425,5514.632960622265,Brunswick - North | Brunswick - South
+Brunswick,2021,26285.0,5.1425,5111.327175498299,Brunswick - North | Brunswick - South
+Brunswick,2022,26488.0,5.1425,5150.802139037433,Brunswick - North | Brunswick - South
+Brunswick,2023,28180.0,5.1425,5479.8249878463785,Brunswick - North | Brunswick - South
+Brunswick,2024,29555.0,5.1425,5747.204666990763,Brunswick - North | Brunswick - South
+Bundoora,2015,24087.0,11.35,2122.2026431718064,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2016,24707.0,11.35,2176.828193832599,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2017,24756.0,11.35,2181.145374449339,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2018,24835.0,11.35,2188.1057268722466,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2019,24726.0,11.35,2178.502202643172,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2020,24518.0,11.35,2160.1762114537446,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2021,23581.0,11.35,2077.6211453744495,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2022,23579.0,11.35,2077.444933920705,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2023,24274.0,11.35,2138.678414096916,Bundoora - East | Bundoora - North | Bundoora - West
+Bundoora,2024,24883.0,11.35,2192.3348017621147,Bundoora - East | Bundoora - North | Bundoora - West
+Doncaster,2015,21076.0,8.7738,2402.1518612231876,Doncaster
+Doncaster,2016,21885.0,8.7738,2494.3582028311566,Doncaster
+Doncaster,2017,22707.0,8.7738,2588.0462285440744,Doncaster
+Doncaster,2018,23236.0,8.7738,2648.3393740454535,Doncaster
+Doncaster,2019,24172.0,8.7738,2755.020629601769,Doncaster
+Doncaster,2020,25118.0,8.7738,2862.8416421618913,Doncaster
+Doncaster,2021,25173.0,8.7738,2869.1103056828288,Doncaster
+Doncaster,2022,25632.0,8.7738,2921.42515215756,Doncaster
+Doncaster,2023,26863.0,8.7738,3061.729239326176,Doncaster
+Doncaster,2024,27827.0,8.7738,3171.6018144931504,Doncaster
+Doncaster East,2015,29544.0,11.171399999999998,2644.6103442719805,Doncaster East - North | Doncaster East - South
+Doncaster East,2016,29924.0,11.171399999999998,2678.625776536513,Doncaster East - North | Doncaster East - South
+Doncaster East,2017,30441.0,11.171399999999998,2724.9046672753643,Doncaster East - North | Doncaster East - South
+Doncaster East,2018,30833.0,11.171399999999998,2759.994271085093,Doncaster East - North | Doncaster East - South
+Doncaster East,2019,31718.0,11.171399999999998,2839.2144225432808,Doncaster East - North | Doncaster East - South
+Doncaster East,2020,32086.0,11.171399999999998,2872.1556832626175,Doncaster East - North | Doncaster East - South
+Doncaster East,2021,31379.0,11.171399999999998,2808.8690763915,Doncaster East - North | Doncaster East - South
+Doncaster East,2022,31457.0,11.171399999999998,2815.8511914352725,Doncaster East - North | Doncaster East - South
+Doncaster East,2023,32417.0,11.171399999999998,2901.784915050934,Doncaster East - North | Doncaster East - South
+Doncaster East,2024,32956.0,11.171399999999998,2950.033120289311,Doncaster East - North | Doncaster East - South
+Donvale,2015,16520.0,20.8028,794.1238679408541,Donvale - Park Orchards
+Donvale,2016,16715.0,20.8028,803.4976060914877,Donvale - Park Orchards
+Donvale,2017,16769.0,20.8028,806.0934105024323,Donvale - Park Orchards
+Donvale,2018,16804.0,20.8028,807.7758763243409,Donvale - Park Orchards
+Donvale,2019,16777.0,20.8028,806.4779741188686,Donvale - Park Orchards
+Donvale,2020,16668.0,20.8028,801.2382948449247,Donvale - Park Orchards
+Donvale,2021,16410.0,20.8028,788.8361182148557,Donvale - Park Orchards
+Donvale,2022,16390.0,20.8028,787.874709173765,Donvale - Park Orchards
+Donvale,2023,16494.0,20.8028,792.8740361874362,Donvale - Park Orchards
+Donvale,2024,16748.0,20.8028,805.0839310092872,Donvale - Park Orchards
+Templestowe,2015,17550.0,16.1176,1088.871792326401,Templestowe
+Templestowe,2016,17682.0,16.1176,1097.0615972601381,Templestowe
+Templestowe,2017,17713.0,16.1176,1098.984960540031,Templestowe
+Templestowe,2018,17680.0,16.1176,1096.9375093065964,Templestowe
+Templestowe,2019,17674.0,16.1176,1096.565245445972,Templestowe
+Templestowe,2020,17548.0,16.1176,1088.7477043728595,Templestowe
+Templestowe,2021,17101.0,16.1176,1061.014046756341,Templestowe
+Templestowe,2022,17136.0,16.1176,1063.1855859433167,Templestowe
+Templestowe,2023,17429.0,16.1176,1081.3644711371421,Templestowe
+Templestowe,2024,17419.0,16.1176,1080.7440313694347,Templestowe
+Templestowe Lower,2015,14155.0,5.9386,2383.558414441114,Templestowe Lower
+Templestowe Lower,2016,14305.0,5.9386,2408.8168928703735,Templestowe Lower
+Templestowe Lower,2017,14403.0,5.9386,2425.3190987774897,Templestowe Lower
+Templestowe Lower,2018,14419.0,5.9386,2428.0133364766107,Templestowe Lower
+Templestowe Lower,2019,14441.0,5.9386,2431.717913312902,Templestowe Lower
+Templestowe Lower,2020,14581.0,5.9386,2455.292493180211,Templestowe Lower
+Templestowe Lower,2021,14280.0,5.9386,2404.607146465497,Templestowe Lower
+Templestowe Lower,2022,14336.0,5.9386,2414.0369784124205,Templestowe Lower
+Templestowe Lower,2023,14433.0,5.9386,2430.3707944633416,Templestowe Lower
+Templestowe Lower,2024,14586.0,5.9386,2456.134442461186,Templestowe Lower
+Warrandyte,2015,10560.0,45.7591,230.7737695889998,Warrandyte - Wonga Park
+Warrandyte,2016,10613.0,45.7591,231.9320091522779,Warrandyte - Wonga Park
+Warrandyte,2017,10612.0,45.7591,231.9101555756123,Warrandyte - Wonga Park
+Warrandyte,2018,10590.0,45.7591,231.42937688896856,Warrandyte - Wonga Park
+Warrandyte,2019,10551.0,45.7591,230.57708739900917,Warrandyte - Wonga Park
+Warrandyte,2020,10404.0,45.7591,227.3646116291623,Warrandyte - Wonga Park
+Warrandyte,2021,10181.0,45.7591,222.49126403272794,Warrandyte - Wonga Park
+Warrandyte,2022,10076.0,45.7591,220.1966384828373,Warrandyte - Wonga Park
+Warrandyte,2023,10124.0,45.7591,221.2456101627873,Warrandyte - Wonga Park
+Warrandyte,2024,10212.0,45.7591,223.1687249093623,Warrandyte - Wonga Park
+Wonga Park,2015,10560.0,45.7591,230.7737695889998,Warrandyte - Wonga Park
+Wonga Park,2016,10613.0,45.7591,231.9320091522779,Warrandyte - Wonga Park
+Wonga Park,2017,10612.0,45.7591,231.9101555756123,Warrandyte - Wonga Park
+Wonga Park,2018,10590.0,45.7591,231.42937688896856,Warrandyte - Wonga Park
+Wonga Park,2019,10551.0,45.7591,230.57708739900917,Warrandyte - Wonga Park
+Wonga Park,2020,10404.0,45.7591,227.3646116291623,Warrandyte - Wonga Park
+Wonga Park,2021,10181.0,45.7591,222.49126403272794,Warrandyte - Wonga Park
+Wonga Park,2022,10076.0,45.7591,220.1966384828373,Warrandyte - Wonga Park
+Wonga Park,2023,10124.0,45.7591,221.2456101627873,Warrandyte - Wonga Park
+Wonga Park,2024,10212.0,45.7591,223.1687249093623,Warrandyte - Wonga Park
+Park Orchards,2015,16520.0,20.8028,794.1238679408541,Donvale - Park Orchards
+Park Orchards,2016,16715.0,20.8028,803.4976060914877,Donvale - Park Orchards
+Park Orchards,2017,16769.0,20.8028,806.0934105024323,Donvale - Park Orchards
+Park Orchards,2018,16804.0,20.8028,807.7758763243409,Donvale - Park Orchards
+Park Orchards,2019,16777.0,20.8028,806.4779741188686,Donvale - Park Orchards
+Park Orchards,2020,16668.0,20.8028,801.2382948449247,Donvale - Park Orchards
+Park Orchards,2021,16410.0,20.8028,788.8361182148557,Donvale - Park Orchards
+Park Orchards,2022,16390.0,20.8028,787.874709173765,Donvale - Park Orchards
+Park Orchards,2023,16494.0,20.8028,792.8740361874362,Donvale - Park Orchards
+Park Orchards,2024,16748.0,20.8028,805.0839310092872,Donvale - Park Orchards
+Bulleen,2015,11504.0,6.6711,1724.4532385963334,Bulleen
+Bulleen,2016,11565.0,6.6711,1733.5971578900032,Bulleen
+Bulleen,2017,11585.0,6.6711,1736.5951642157966,Bulleen
+Bulleen,2018,11631.0,6.6711,1743.4905787651212,Bulleen
+Bulleen,2019,11626.0,6.6711,1742.7410771836728,Bulleen
+Bulleen,2020,11657.0,6.6711,1747.3879869886525,Bulleen
+Bulleen,2021,11370.0,6.6711,1704.366596213518,Bulleen
+Bulleen,2022,11419.0,6.6711,1711.7117117117118,Bulleen
+Bulleen,2023,11629.0,6.6711,1743.190778132542,Bulleen
+Bulleen,2024,11730.0,6.6711,1758.3307100777984,Bulleen
+Rowville,2015,35221.0,21.722299999999997,1621.4213043738464,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2016,35216.0,21.722299999999997,1621.191126169881,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2017,35193.0,21.722299999999997,1620.1323064316396,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2018,35087.0,21.722299999999997,1615.2525285075708,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2019,34954.0,21.722299999999997,1609.1297882820882,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2020,34702.0,21.722299999999997,1597.5288068022264,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2021,33964.0,21.722299999999997,1563.5545038969171,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2022,33614.0,21.722299999999997,1547.4420296193316,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2023,33966.0,21.722299999999997,1563.6465751785033,Rowville - Central | Rowville - North | Rowville - South
+Rowville,2024,34125.0,21.722299999999997,1570.9662420646066,Rowville - Central | Rowville - North | Rowville - South
+Lysterfield,2015,6898.0,18.494,372.985833243214,Lysterfield
+Lysterfield,2016,6917.0,18.494,374.0131934681518,Lysterfield
+Lysterfield,2017,6919.0,18.494,374.12133664972424,Lysterfield
+Lysterfield,2018,6919.0,18.494,374.12133664972424,Lysterfield
+Lysterfield,2019,6890.0,18.494,372.5532605169244,Lysterfield
+Lysterfield,2020,6802.0,18.494,367.79496052773874,Lysterfield
+Lysterfield,2021,6654.0,18.494,359.792365091381,Lysterfield
+Lysterfield,2022,6552.0,18.494,354.2770628311885,Lysterfield
+Lysterfield,2023,6552.0,18.494,354.2770628311885,Lysterfield
+Lysterfield,2024,6583.0,18.494,355.9532821455607,Lysterfield
+Scoresby,2015,15140.0,15.2651,991.8048358674362,Knoxfield - Scoresby
+Scoresby,2016,15752.0,15.2651,1031.8962863001225,Knoxfield - Scoresby
+Scoresby,2017,16213.0,15.2651,1062.0958919365087,Knoxfield - Scoresby
+Scoresby,2018,16588.0,15.2651,1086.6617316624195,Knoxfield - Scoresby
+Scoresby,2019,16923.0,15.2651,1108.6072151508997,Knoxfield - Scoresby
+Scoresby,2020,17016.0,15.2651,1114.6995434029257,Knoxfield - Scoresby
+Scoresby,2021,16734.0,15.2651,1096.2260319290408,Knoxfield - Scoresby
+Scoresby,2022,16690.0,15.2651,1093.3436400678672,Knoxfield - Scoresby
+Scoresby,2023,16999.0,15.2651,1113.5858920020175,Knoxfield - Scoresby
+Scoresby,2024,17094.0,15.2651,1119.809238065915,Knoxfield - Scoresby
+Knoxfield,2015,15140.0,15.2651,991.8048358674362,Knoxfield - Scoresby
+Knoxfield,2016,15752.0,15.2651,1031.8962863001225,Knoxfield - Scoresby
+Knoxfield,2017,16213.0,15.2651,1062.0958919365087,Knoxfield - Scoresby
+Knoxfield,2018,16588.0,15.2651,1086.6617316624195,Knoxfield - Scoresby
+Knoxfield,2019,16923.0,15.2651,1108.6072151508997,Knoxfield - Scoresby
+Knoxfield,2020,17016.0,15.2651,1114.6995434029257,Knoxfield - Scoresby
+Knoxfield,2021,16734.0,15.2651,1096.2260319290408,Knoxfield - Scoresby
+Knoxfield,2022,16690.0,15.2651,1093.3436400678672,Knoxfield - Scoresby
+Knoxfield,2023,16999.0,15.2651,1113.5858920020175,Knoxfield - Scoresby
+Knoxfield,2024,17094.0,15.2651,1119.809238065915,Knoxfield - Scoresby
+Wantirna,2015,14376.0,8.3064,1730.7136665703554,Wantirna
+Wantirna,2016,14425.0,8.3064,1736.6127323509584,Wantirna
+Wantirna,2017,14540.0,8.3064,1750.4574785707407,Wantirna
+Wantirna,2018,14687.0,8.3064,1768.1546759125495,Wantirna
+Wantirna,2019,14778.0,8.3064,1779.1100837908118,Wantirna
+Wantirna,2020,14866.0,8.3064,1789.7043243763844,Wantirna
+Wantirna,2021,14446.0,8.3064,1739.1409033997882,Wantirna
+Wantirna,2022,14220.0,8.3064,1711.9329673504767,Wantirna
+Wantirna,2023,14516.0,8.3064,1747.568140229221,Wantirna
+Wantirna,2024,14607.0,8.3064,1758.5235481074833,Wantirna
+Wantirna South,2015,18437.0,13.3559,1380.4386076565413,Wantirna South
+Wantirna South,2016,18580.0,13.3559,1391.1454862644973,Wantirna South
+Wantirna South,2017,18598.0,13.3559,1392.4932052501142,Wantirna South
+Wantirna South,2018,18615.0,13.3559,1393.7660509587522,Wantirna South
+Wantirna South,2019,18629.0,13.3559,1394.8142768364544,Wantirna South
+Wantirna South,2020,18602.0,13.3559,1392.792698358029,Wantirna South
+Wantirna South,2021,18099.0,13.3559,1355.1314400377362,Wantirna South
+Wantirna South,2022,17967.0,13.3559,1345.2481674765459,Wantirna South
+Wantirna South,2023,18156.0,13.3559,1359.399216825523,Wantirna South
+Wantirna South,2024,18360.0,13.3559,1374.6733653291803,Wantirna South
+The Basin,2015,4423.0,5.7163,773.7522523310532,The Basin
+The Basin,2016,4441.0,5.7163,776.9011423473225,The Basin
+The Basin,2017,4460.0,5.7163,780.224970697829,The Basin
+The Basin,2018,4469.0,5.7163,781.7994157059636,The Basin
+The Basin,2019,4455.0,5.7163,779.3502790266431,The Basin
+The Basin,2020,4415.0,5.7163,772.3527456571558,The Basin
+The Basin,2021,4380.0,5.7163,766.2299039588545,The Basin
+The Basin,2022,4299.0,5.7163,752.0598988856427,The Basin
+The Basin,2023,4297.0,5.7163,751.7100222171684,The Basin
+The Basin,2024,4318.0,5.7163,755.3837272361492,The Basin
+Endeavour Hills,2015,26616.0,20.0619,1326.6938824338672,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2016,26659.0,20.0619,1328.8372487152262,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2017,26655.0,20.0619,1328.6378658053325,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2018,26630.0,20.0619,1327.3917226184956,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2019,26539.0,20.0619,1322.8557614184099,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2020,26303.0,20.0619,1311.0921697346712,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2021,25651.0,20.0619,1278.5927554219688,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2022,25355.0,20.0619,1263.838420089822,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2023,25515.0,20.0619,1271.813736485577,Endeavour Hills - North | Endeavour Hills - South
+Endeavour Hills,2024,25682.0,20.0619,1280.1379729736466,Endeavour Hills - North | Endeavour Hills - South
+Doveton,2015,11665.0,5.1935,2246.076826802734,Doveton
+Doveton,2016,11867.0,5.1935,2284.9715991142775,Doveton
+Doveton,2017,12095.0,5.1935,2328.8726292480983,Doveton
+Doveton,2018,12260.0,5.1935,2360.643111581785,Doveton
+Doveton,2019,12345.0,5.1935,2377.009723693078,Doveton
+Doveton,2020,12513.0,5.1935,2409.357851160104,Doveton
+Doveton,2021,12058.0,5.1935,2321.7483392702416,Doveton
+Doveton,2022,12134.0,5.1935,2336.3820159815155,Doveton
+Doveton,2023,12468.0,5.1935,2400.6931741600074,Doveton
+Doveton,2024,12728.0,5.1935,2450.755752382786,Doveton
+Greenvale,2015,15629.0,95.906,162.9616499489083,Greenvale - Bulla
+Greenvale,2016,17123.0,95.906,178.53940316559965,Greenvale - Bulla
+Greenvale,2017,18267.0,95.906,190.46774967155338,Greenvale - Bulla
+Greenvale,2018,19485.0,95.906,203.16768502492022,Greenvale - Bulla
+Greenvale,2019,20327.0,95.906,211.94711488332325,Greenvale - Bulla
+Greenvale,2020,21279.0,95.906,221.8735011365295,Greenvale - Bulla
+Greenvale,2021,22406.0,95.906,233.62459074510457,Greenvale - Bulla
+Greenvale,2022,23492.0,95.906,244.94817842470752,Greenvale - Bulla
+Greenvale,2023,24570.0,95.906,256.1883510937793,Greenvale - Bulla
+Greenvale,2024,25668.0,95.906,267.637061289179,Greenvale - Bulla
+Gladstone Park,2015,18135.0,13.936,1301.3059701492537,Gladstone Park - Westmeadows
+Gladstone Park,2016,18353.0,13.936,1316.9489092996555,Gladstone Park - Westmeadows
+Gladstone Park,2017,18494.0,13.936,1327.0665901262917,Gladstone Park - Westmeadows
+Gladstone Park,2018,18583.0,13.936,1333.4529276693456,Gladstone Park - Westmeadows
+Gladstone Park,2019,18614.0,13.936,1335.6773823191734,Gladstone Park - Westmeadows
+Gladstone Park,2020,18598.0,13.936,1334.5292766934558,Gladstone Park - Westmeadows
+Gladstone Park,2021,18176.0,13.936,1304.247990815155,Gladstone Park - Westmeadows
+Gladstone Park,2022,17969.0,13.936,1289.394374282434,Gladstone Park - Westmeadows
+Gladstone Park,2023,18144.0,13.936,1301.9517795637198,Gladstone Park - Westmeadows
+Gladstone Park,2024,18208.0,13.936,1306.54420206659,Gladstone Park - Westmeadows
+Westmeadows,2015,18135.0,13.936,1301.3059701492537,Gladstone Park - Westmeadows
+Westmeadows,2016,18353.0,13.936,1316.9489092996555,Gladstone Park - Westmeadows
+Westmeadows,2017,18494.0,13.936,1327.0665901262917,Gladstone Park - Westmeadows
+Westmeadows,2018,18583.0,13.936,1333.4529276693456,Gladstone Park - Westmeadows
+Westmeadows,2019,18614.0,13.936,1335.6773823191734,Gladstone Park - Westmeadows
+Westmeadows,2020,18598.0,13.936,1334.5292766934558,Gladstone Park - Westmeadows
+Westmeadows,2021,18176.0,13.936,1304.247990815155,Gladstone Park - Westmeadows
+Westmeadows,2022,17969.0,13.936,1289.394374282434,Gladstone Park - Westmeadows
+Westmeadows,2023,18144.0,13.936,1301.9517795637198,Gladstone Park - Westmeadows
+Westmeadows,2024,18208.0,13.936,1306.54420206659,Gladstone Park - Westmeadows
+Tullamarine,2015,6674.0,3.8595,1729.2395388003627,Tullamarine
+Tullamarine,2016,6698.0,3.8595,1735.457960875761,Tullamarine
+Tullamarine,2017,6759.0,3.8595,1751.2631169840652,Tullamarine
+Tullamarine,2018,6820.0,3.8595,1767.0682730923695,Tullamarine
+Tullamarine,2019,6835.0,3.8595,1770.9547868894933,Tullamarine
+Tullamarine,2020,6824.0,3.8595,1768.1046767716025,Tullamarine
+Tullamarine,2021,6628.0,3.8595,1717.3208964891824,Tullamarine
+Tullamarine,2022,6486.0,3.8595,1680.5285658764087,Tullamarine
+Tullamarine,2023,6551.0,3.8595,1697.370125663946,Tullamarine
+Tullamarine,2024,6667.0,3.8595,1727.4258323617048,Tullamarine
+Keilor East,2015,14938.0,5.4828,2724.5203180856497,Keilor East
+Keilor East,2016,15200.0,5.4828,2772.3061209600933,Keilor East
+Keilor East,2017,15263.0,5.4828,2783.7966002772305,Keilor East
+Keilor East,2018,15357.0,5.4828,2800.941124972642,Keilor East
+Keilor East,2019,15475.0,5.4828,2822.4629751222,Keilor East
+Keilor East,2020,15471.0,5.4828,2821.7334208798425,Keilor East
+Keilor East,2021,15174.0,5.4828,2767.5640183847668,Keilor East
+Keilor East,2022,15173.0,5.4828,2767.3816298241773,Keilor East
+Keilor East,2023,15289.0,5.4828,2788.538702852557,Keilor East
+Keilor East,2024,15463.0,5.4828,2820.2743123951263,Keilor East
