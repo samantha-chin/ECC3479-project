@@ -1,0 +1,341 @@
+requested_suburb,SAL_CODE_2021,SAL_NAME_2021,sal_area_km2,SA2_CODE_2021,SA2_NAME_2021,overlap_share,sa2_area_km2,year,density
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2015,2654.62
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2016,2735.2
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2017,2776.51
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2018,2804.72
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2019,2824.45
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2020,2844.55
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2021,2824.45
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2022,2828.51
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2023,2870.74
+Chelsea,20537,Chelsea,2.6247,208031186,Chelsea - Bonbeach,1.0,5.423,2024,2921.26
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2015,374.64
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2016,421.89
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2017,461.0
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2018,489.95
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2019,516.92
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2020,538.19
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2021,523.4
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2022,532.21
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2023,555.58
+Laverton,21476,Laverton (Vic.),3.7597,213051363,Laverton,1.0,22.2451,2024,569.65
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2015,1781.34
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2016,1809.29
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2017,1846.63
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2018,1867.11
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2019,1904.65
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2020,1933.1
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2021,1908.99
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2022,1913.32
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2023,1947.13
+Ringwood,22174,Ringwood (Vic.),10.1206,211031266,Ringwood,0.969,9.9105,2024,1976.99
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2015,2995.96
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2016,3077.53
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2017,3097.53
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2018,3104.04
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2019,3119.78
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2020,3113.71
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2021,2989.44
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2022,2999.33
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2023,3079.1
+Mentone,21648,Mentone,4.528,208031190,Mentone,0.9828,4.45,2024,3133.71
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2015,2659.93
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2016,2735.97
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2017,2767.99
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2018,2781.29
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2019,2790.32
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2020,2807.49
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2021,2710.79
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2022,2718.02
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2023,2830.73
+Preston,22121,Preston (Vic.),11.4069,209021428,Preston - East,0.679,7.7457,2024,2901.35
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2015,2538.45
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2016,2589.69
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2017,2625.82
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2018,2642.2
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2019,2664.04
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2020,2675.77
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2021,2597.24
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2022,2590.62
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2023,2660.09
+Blackburn,20252,Blackburn,5.899,207031161,Blackburn,1.0,8.6076,2024,2720.27
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2015,351.4
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2016,405.89
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2017,465.44
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2018,533.62
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2019,609.29
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2020,673.11
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2021,720.78
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2022,774.43
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2023,809.68
+Beaconsfield,20175,Beaconsfield (Vic.),10.8132,212011546,Beaconsfield - Officer,0.9419,33.2503,2024,851.3
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2015,3349.46
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2016,3452.16
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2017,3518.84
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2018,3548.1
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2019,3572.57
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2020,3590.86
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2021,3464.54
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2022,3447.09
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2023,3549.5
+Essendon,20885,Essendon,6.159,206031502,Essendon - East,0.5771,3.5543,2024,3622.65
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2015,2993.04
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2016,3011.8
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2017,3042.3
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2018,3053.34
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2019,3069.47
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2020,3045.63
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2021,2980.95
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2022,2956.23
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2023,3015.13
+Glen Iris,21010,Glen Iris (Vic.),8.2313,207011150,Glen Iris - East,0.6722,5.7049,2024,3065.96
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2015,1578.87
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2016,1603.44
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2017,1627.93
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2018,1643.82
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2019,1651.65
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2020,1663.7
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2021,1656.64
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2022,1656.41
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2023,1687.5
+Cranbourne,20662,Cranbourne,16.5124,212031300,Cranbourne,0.7889,13.027,2024,1724.73
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2015,935.46
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2016,941.46
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2017,944.1
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2018,944.92
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2019,942.78
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2020,928.43
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2021,893.24
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2022,871.96
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2023,890.1
+Campbellfield,20455,Campbellfield,12.247,210051243,Campbellfield - Coolaroo,1.0,18.1867,2024,901.15
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2015,157.94
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2016,160.88
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2017,166.38
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2018,176.2
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2019,187.42
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2020,200.86
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2021,209.85
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2022,212.85
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2023,215.5
+Pakenham,22027,Pakenham,85.8497,212011551,Pakenham - South East,0.3084,30.9414,2024,215.8
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2015,175.64
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2016,177.8
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2017,179.7
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2018,181.22
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2019,182.05
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2020,182.41
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2021,180.89
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2022,181.89
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2023,182.96
+Lilydale,21504,Lilydale (Vic.),29.1737,211051278,Lilydale - Coldstream,0.9986,109.3817,2024,187.34
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2015,3742.65
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2016,3789.4
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2017,3879.86
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2018,3952.32
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2019,4045.02
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2020,4088.4
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2021,4049.03
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2022,4085.99
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2023,4199.09
+Bentleigh,20214,Bentleigh,4.7137,208021174,Bentleigh - McKinnon,0.974,6.2242,2024,4298.06
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2015,2943.88
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2016,3009.4
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2017,3137.57
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2018,3233.94
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2019,3308.07
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2020,3354.22
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2021,2935.51
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2022,3080.9
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2023,3386.98
+Clayton,20569,Clayton,7.821,212051568,Clayton - Central,0.5347,4.1819,2024,3581.39
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2015,3976.35
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2016,4053.52
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2017,4127.77
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2018,4176.99
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2019,4228.72
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2020,4220.79
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2021,4131.73
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2022,4097.53
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2023,4205.77
+Noble Park,21952,Noble Park,8.553,212041460,Noble Park - West,0.5573,4.7946,2024,4225.59
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2015,2627.95
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2016,2683.69
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2017,2719.17
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2018,2774.1
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2019,2806.26
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2020,2839.22
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2021,2787.26
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2022,2806.49
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2023,2889.01
+Cheltenham,20539,Cheltenham (Vic.),10.5172,208031188,Highett (East) - Cheltenham ,0.683,8.7376,2024,2952.64
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2015,91.92
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2016,96.21
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2017,106.1
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2018,118.62
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2019,137.17
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2020,158.5
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2021,177.75
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2022,199.23
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2023,219.5
+Werribee,22750,Werribee,42.8849,213051468,Werribee - West,0.5667,127.6631,2024,238.23
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2015,1195.77
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2016,1206.4
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2017,1210.81
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2018,1207.77
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2019,1209.14
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2020,1200.63
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2021,1173.84
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2022,1167.97
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2023,1192.02
+Berwick,20224,Berwick,33.1956,212021293,Berwick - North,0.5893,19.748,2024,1202.55
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2015,1897.09
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2016,1941.67
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2017,1972.04
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2018,1998.1
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2019,2013.41
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2020,2025.51
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2021,2004.89
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2022,1999.95
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2023,2046.13
+Croydon,20682,Croydon (Vic.),14.1004,211031450,Croydon - East,0.5142,8.0982,2024,2116.64
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2015,2578.77
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2016,2622.69
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2017,2634.85
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2018,2671.91
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2019,2710.34
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2020,2701.52
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2021,2680.14
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2022,2675.24
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2023,2723.28
+Edithvale,20848,Edithvale,2.0645,208031189,Edithvale - Aspendale,1.0,5.1001,2024,2767.0
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2015,2178.78
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2016,2230.92
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2017,2246.16
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2018,2267.13
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2019,2286.18
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2020,2267.67
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2021,2188.18
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2022,2198.93
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2023,2253.79
+Williamstown,22792,Williamstown (Vic.),5.5782,213021346,Williamstown,0.9952,7.3463,2024,2295.99
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2015,1729.83
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2016,1787.59
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2017,1793.47
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2018,1793.26
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2019,1783.45
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2020,1761.44
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2021,1654.21
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2022,1626.53
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2023,1676.44
+Ardeer,20062,Ardeer,2.1307,213011328,Ardeer - Albion,0.9501,4.5883,2024,1717.41
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2015,3141.43
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2016,3229.44
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2017,3290.61
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2018,3330.93
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2019,3349.94
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2020,3321.27
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2021,3194.79
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2022,3110.46
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2023,3174.86
+St Albans,22330,St Albans (Vic.),12.8325,213011334,St Albans - North,0.5083,6.5225,2024,3207.51
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2015,101.66
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2016,102.19
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2017,102.96
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2018,103.85
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2019,105.27
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2020,106.97
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2021,106.43
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2022,106.68
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2023,109.59
+Sunbury,22391,Sunbury,132.2233,210041240,Sunbury,0.5206,129.5487,2024,113.92
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2015,2288.03
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2016,2362.14
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2017,2413.84
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2018,2466.83
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2019,2489.72
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2020,2491.48
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2021,2397.84
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2022,2373.83
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2023,2462.02
+Glenroy,21047,Glenroy (Vic.),9.2235,210031535,Glenroy - East,0.6773,6.2473,2024,2508.44
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2015,1814.01
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2016,1844.15
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2017,1858.17
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2018,1875.25
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2019,1918.45
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2020,1951.08
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2021,1915.57
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2022,1964.52
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2023,2097.18
+Alphington,20034,Alphington,2.8171,206071145,Clifton Hill - Alphington,0.5176,5.2089,2024,2154.01
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2015,4900.78
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2016,5018.0
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2017,5069.79
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2018,5138.91
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2019,5174.4
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2020,5171.77
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2021,4939.15
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2022,4970.43
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2023,5271.65
+Carnegie,20498,Carnegie,3.6873,208021176,Carnegie,1.0,3.8045,2024,5476.94
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2015,1380.87
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2016,1406.94
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2017,1429.4
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2018,1451.87
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2019,1478.43
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2020,1485.51
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2021,1439.58
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2022,1434.12
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2023,1456.84
+Hallam,21125,Hallam,8.1245,212021297,Hallam,0.957,8.0565,2024,1476.82
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2015,2517.84
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2016,2543.95
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2017,2577.9
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2018,2600.08
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2019,2607.78
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2020,2616.23
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2021,2554.66
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2022,2563.72
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2023,2608.68
+Mitcham,21706,Mitcham (Vic.),6.6271,211041270,Mitcham (Vic.),1.0,6.6271,2024,2629.36
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2015,2575.96
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2016,2626.1
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2017,2655.25
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2018,2660.41
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2019,2657.21
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2020,2630.9
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2021,2532.4
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2022,2530.45
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2023,2612.05
+Reservoir,22161,Reservoir (Vic.),19.0274,209021526,Reservoir - South West,0.2949,5.6247,2024,2685.3
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2015,3475.49
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2016,3545.68
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2017,3557.95
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2018,3570.49
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2019,3575.3
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2020,3540.07
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2021,3382.62
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2022,3442.93
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2023,3597.98
+Coburg,20596,Coburg,6.918,206011497,Coburg - East,0.5416,3.7471,2024,3706.07
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2015,4965.98
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2016,5068.41
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2017,5115.97
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2018,5195.0
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2019,5244.75
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2020,5207.8
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2021,4832.08
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2022,4866.83
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2023,5196.46
+Brunswick,20361,Brunswick (Vic.),4.9787,206011496,Brunswick - South,0.5275,2.7334,2024,5517.3
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2015,1301.97
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2016,1328.06
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2017,1342.49
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2018,1339.82
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2019,1308.86
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2020,1279.22
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2021,1170.89
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2022,1192.87
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2023,1296.42
+Bundoora,20399,Bundoora (Vic.),17.2313,209021205,Kingsbury,0.344,9.0094,2024,1382.33
