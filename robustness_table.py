@@ -6,34 +6,82 @@ import pandas as pd
 import statsmodels.formula.api as smf
 
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = PROJECT_ROOT / "results"
 
 if str(PROJECT_ROOT / "code") not in sys.path:
     sys.path.append(str(PROJECT_ROOT / "code"))
 
-from robustness_alternative_inference import build_panel, stars
+
+def build_panel():
+    clean = PROJECT_ROOT / "data" / "clean"
+    wide = pd.read_csv(clean / "population_density_all_suburbs.csv")
+
+    wide["suburb"] = wide["suburb"].astype(str).str.strip().str.upper()
+    wide["treated"] = wide["treated"].astype(int)
+
+    price_cols = [col for col in wide.columns if col.endswith("_price")]
+    pop_cols = [col for col in wide.columns if col.endswith("_pop")]
+
+    prices_long = wide[["suburb", "status", "treated"] + price_cols].melt(
+        id_vars=["suburb", "status", "treated"],
+        value_vars=price_cols,
+        var_name="year",
+        value_name="price",
+    )
+    prices_long["year"] = prices_long["year"].str.replace("_price", "", regex=False).astype(int)
+
+    population_long = wide[["suburb"] + pop_cols].melt(
+        id_vars=["suburb"],
+        value_vars=pop_cols,
+        var_name="year",
+        value_name="population",
+    )
+    population_long["year"] = population_long["year"].str.replace("_pop", "", regex=False).astype(int)
+
+    df = (
+        prices_long
+        .merge(population_long, on=["suburb", "year"], how="inner")
+        .dropna(subset=["price", "population", "treated"])
+        .copy()
+    )
+    df = df[(df["price"] > 0) & (df["population"] > 0)].copy()
+
+    df["post"] = (df["year"] >= 2017).astype(int)
+    df["treat_post"] = df["treated"] * df["post"]
+    df["log_price"] = np.log(df["price"])
+    df["log_population"] = np.log(df["population"])
+
+    return df
+
+
+def stars(p_value):
+    if p_value < 0.01:
+        return "***"
+    if p_value < 0.05:
+        return "**"
+    if p_value < 0.1:
+        return "*"
+    return ""
 
 
 def prepare_data():
     df = build_panel().copy()
     df["price_ihs"] = np.arcsinh(df["price"])
-    df["log_population_centered"] = (
-        df["log_population"] - df["log_population"].mean()
-    )
+    df["log_population_centered"] = df["log_population"] - df["log_population"].mean()
     df["log_population_centered_sq"] = df["log_population_centered"] ** 2
     return df
 
 
 def fit_functional_form_models(df):
     formulas = {
-        "Main specification": (
+        "Baseline": (
             "log_price ~ treat_post + log_population + C(suburb) + C(year)"
         ),
         "Levels model": (
             "price ~ treat_post + log_population + C(suburb) + C(year)"
         ),
-        "Quadratic control": (
+        "Quadratic population control": (
             "log_price ~ treat_post + log_population_centered "
             "+ log_population_centered_sq + C(suburb) + C(year)"
         ),
@@ -57,9 +105,7 @@ def fit_pretrend_model(df):
     df = df.copy()
 
     for year in pre_years:
-        df[f"treated_x_{year}"] = (
-            df["treated"] * (df["year"] == year).astype(int)
-        )
+        df[f"treated_x_{year}"] = df["treated"] * (df["year"] == year).astype(int)
 
     formula = (
         "log_price ~ "
@@ -85,51 +131,90 @@ def standard_error(result, variable):
 
 
 def build_robustness_table(results, pretrend_result, joint_test):
-    table = pd.DataFrame(
+    rows = [
         {
-            "Statistic": [
-                "Treat x Post coefficient",
-                "HC3 standard error",
-                "t-statistic",
-                "Pretrend: Treat x 2015",
-                "Pretrend: Treat x 2015 HC3 SE",
-                "Pretrend: Treat x 2016",
-                "Pretrend: Treat x 2016 HC3 SE",
-                "Joint pretrend p-value",
-                "N",
-                "R-squared",
-            ]
-        }
-    )
-
-    for label, result in results.items():
-        table[label] = [
-            coefficient(result, "treat_post"),
-            standard_error(result, "treat_post"),
-            f"{result.tvalues['treat_post']:.3f}",
-            "",
-            "",
-            "",
-            "",
-            "",
-            f"{int(result.nobs):,}",
-            f"{result.rsquared:.3f}",
-        ]
-
-    table["Pretrend test"] = [
-        "",
-        "",
-        "",
-        coefficient(pretrend_result, "treated_x_2015"),
-        standard_error(pretrend_result, "treated_x_2015"),
-        coefficient(pretrend_result, "treated_x_2016"),
-        standard_error(pretrend_result, "treated_x_2016"),
-        f"{float(joint_test.pvalue):.3f}",
-        f"{int(pretrend_result.nobs):,}",
-        f"{pretrend_result.rsquared:.3f}",
+            "Model": "Baseline",
+            "Coefficient": coefficient(results["Baseline"], "treat_post"),
+            "Standard Error": standard_error(results["Baseline"], "treat_post"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(results['Baseline'].nobs):,}",
+            "R²": f"{results['Baseline'].rsquared:.3f}",
+        },
+        {
+            "Model": "Levels model",
+            "Coefficient": coefficient(results["Levels model"], "treat_post"),
+            "Standard Error": standard_error(results["Levels model"], "treat_post"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(results['Levels model'].nobs):,}",
+            "R²": f"{results['Levels model'].rsquared:.3f}",
+        },
+        {
+            "Model": "Quadratic population control",
+            "Coefficient": coefficient(results["Quadratic population control"], "treat_post"),
+            "Standard Error": standard_error(results["Quadratic population control"], "treat_post"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(results['Quadratic population control'].nobs):,}",
+            "R²": f"{results['Quadratic population control'].rsquared:.3f}",
+        },
+        {
+            "Model": "IHS outcome",
+            "Coefficient": coefficient(results["IHS outcome"], "treat_post"),
+            "Standard Error": standard_error(results["IHS outcome"], "treat_post"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(results['IHS outcome'].nobs):,}",
+            "R²": f"{results['IHS outcome'].rsquared:.3f}",
+        },
+        {
+            "Model": "Interaction added",
+            "Coefficient": coefficient(results["Interaction added"], "treat_post"),
+            "Standard Error": standard_error(results["Interaction added"], "treat_post"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(results['Interaction added'].nobs):,}",
+            "R²": f"{results['Interaction added'].rsquared:.3f}",
+        },
+        {
+            "Model": "Pretrend test: Treat x 2015",
+            "Coefficient": coefficient(pretrend_result, "treated_x_2015"),
+            "Standard Error": standard_error(pretrend_result, "treated_x_2015"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(pretrend_result.nobs):,}",
+            "R²": f"{pretrend_result.rsquared:.3f}",
+        },
+        {
+            "Model": "Pretrend test: Treat x 2016",
+            "Coefficient": coefficient(pretrend_result, "treated_x_2016"),
+            "Standard Error": standard_error(pretrend_result, "treated_x_2016"),
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(pretrend_result.nobs):,}",
+            "R²": f"{pretrend_result.rsquared:.3f}",
+        },
+        {
+            "Model": "Joint pretrend test",
+            "Coefficient": f"p = {float(joint_test.pvalue):.3f}",
+            "Standard Error": "",
+            "Controls": "Yes",
+            "Fixed Effects": "Yes",
+            "SE Type": "HC3",
+            "N": f"{int(pretrend_result.nobs):,}",
+            "R²": f"{pretrend_result.rsquared:.3f}",
+        },
     ]
 
-    return table
+    return pd.DataFrame(rows)
 
 
 def dataframe_to_markdown(df):
@@ -151,36 +236,29 @@ def dataframe_to_markdown(df):
 
 def build_notes():
     return (
-        "Notes: Each column reports a separate specification or robustness check. "
-        "Column 1 is the main log-price DiD specification. Column 2 estimates the "
-        "model using house price in levels instead of log house price. Column 3 "
-        "keeps log house price as the outcome but adds a quadratic in centered log "
-        "population. Column 4 uses the inverse hyperbolic sine transformation of "
-        "house price as the outcome. Column 5 adds an interaction between Treat x "
-        "Post and centered log population, so the Treat x Post coefficient is "
-        "evaluated at mean log population. Column 6 reports the 2017 milestone "
-        "pretrend test using treated-by-year interactions for 2015 and 2016; the "
-        "joint pretrend p-value tests whether both pre-treatment interactions are "
-        "equal to zero. All specifications include population controls, suburb "
-        "fixed effects, and year fixed effects. Standard errors are HC3 "
-        "heteroskedasticity-robust standard errors and are reported in parentheses. "
-        "N is reported in every column. *, **, and *** denote significance at the "
-        "10%, 5%, and 1% levels."
+        "Notes: Each row reports a model or robustness check. The baseline row "
+        "estimates the main log-price DiD specification. The levels model uses "
+        "house price in levels instead of log house price. The quadratic population "
+        "control model keeps log house price as the outcome while adding a centered "
+        "quadratic term for log population. The IHS outcome model uses the inverse "
+        "hyperbolic sine of price. The interaction model adds a Treat x centered log "
+        "population term. The final rows report pretrend test coefficients for 2015 "
+        "and 2016 plus the joint pretrend p-value. All models include population "
+        "controls, suburb fixed effects, year fixed effects, and HC3 standard errors. "
+        "*, **, and *** denote significance at the 10%, 5%, and 1% levels."
     )
 
 
 def build_interpretation(joint_test):
     return (
-        "The robustness checks support the main DiD result. The Treat x Post "
-        "coefficient remains negative across the alternative functional-form "
-        "models, suggesting that the result is not driven by one particular "
-        "outcome transformation or population-control specification. The levels "
-        "model is measured in dollar units, so its magnitude is not directly "
-        "comparable with the log and IHS specifications. The pretrend coefficients "
-        "for 2015 and 2016 are small, and the joint pretrend p-value is "
-        f"{float(joint_test.pvalue):.3f}, so the test does not reject the null "
-        "that the pre-treatment interactions are jointly zero. This provides no "
-        "strong evidence against parallel trends before the 2017 milestone."
+        "The robustness checks align with the notebook results. The Treat x Post "
+        "coefficient stays small and generally negative across alternative model "
+        "specifications, indicating the finding does not hinge on a particular "
+        "outcome transformation or population control. The joint pretrend p-value "
+        f"is {float(joint_test.pvalue):.3f}, so the pretrend test does not reject "
+        "the null hypothesis that the 2015 and 2016 treated-year interactions are "
+        "jointly zero. This provides no strong evidence against parallel trends "
+        "before the 2017 milestone."
     )
 
 
