@@ -1,0 +1,5 @@
+Variable,Mean,Median,Std. Dev.,Min,Max
+Median house price,"815,015","720,000","458,052","177,000","2,650,000"
+Log median house price,13.466,13.487,0.544,12.084,14.790
+Population,"14,571","13,738","5,244","2,252","26,531"
+Log population,9.507,9.528,0.429,7.720,10.186
